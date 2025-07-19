@@ -26,3 +26,8 @@ override.tf.json
 # Terraform CLI
 .terraformrc
 terraform.rc
+
+# keys
+*.pem
+*.key
+*.pub
